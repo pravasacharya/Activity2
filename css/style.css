@@ -8,10 +8,39 @@ h2 {
     text-align: center;
 }
 
+h3 {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+h4 {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
 img {
     max-width: 100%;
 }
 
+p{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+ul{
+    margin-left: 50px;
+    margin-right: 50px;
+}
 
 .Bangkok{
     margin-left: 30px;
@@ -46,4 +75,63 @@ img {
     width:300px;
     height:400px;
 
+}
+.bamboo{
+    margin-left: 30px;
+    margin-right: 30px;
+    width:auto;
+    height:400px;
+
+}
+.elephant{
+    width:500px;
+    height:400px;
+
+}
+.nightbazaar{
+    margin-left: 30px;
+    width:500px;
+    height:400px;
+
+}
+.cookingclass{
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    width:auto;
+    height:400px;
+
+}
+.zipline{
+    margin-top: 30px;
+    width:1033px;
+    height:400px;
+}
+
+.phiphi{
+    margin-left: 30px;
+    margin-right: 30px;
+    width:300px;
+    height:400px;
+}
+.atv{
+    width:500px;
+    height:400px;
+}
+.thap{
+    margin-left: 30px;
+    width:500px;
+    height:400px;
+}
+.krabi{
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    width: 667px;
+    height:400px;
+}
+.island{
+    margin-top: 30px;
+    width:667px;
+    height:400px;
 }
